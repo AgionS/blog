@@ -25,3 +25,6 @@ img {
   max-width: 100%;
   display: block;
 }
+pre {
+  background-color: #ccc;
+}
